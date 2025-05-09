@@ -108,8 +108,3 @@ python mqtt_influx_connection.py
 - [Akhil Kumar Puri] – Sensor Integration & Microcontroller Code, Presentation
 - [Abhinav Rao Veeramalla] – Cloud Integration, Python & Grafana, Testing, Debugging,
 
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
